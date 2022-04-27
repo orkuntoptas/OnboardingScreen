@@ -1,2 +1,2 @@
 # OnboardingScreen
-![Fresh-Light](https://user-images.githubusercontent.com/98979530/165636607-93d41d0a-9d75-4cba-bc92-018df2cf5a93.gif)
+![onboard](https://user-images.githubusercontent.com/98979530/165637138-e76d908e-bab0-49e3-a108-5bc0aa2e98c1.gif)
